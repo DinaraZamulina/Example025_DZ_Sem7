@@ -1,0 +1,5 @@
+C:\Users\Dinara\Desktop\GeekBrains\Examples\Example025_DZ_Sem7\obj\Debug\net7.0\Example025_DZ_Sem7.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\GeekBrains\Examples\Example025_DZ_Sem7\obj\Debug\net7.0\Example025_DZ_Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\GeekBrains\Examples\Example025_DZ_Sem7\obj\Debug\net7.0\Example025_DZ_Sem7.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\GeekBrains\Examples\Example025_DZ_Sem7\obj\Debug\net7.0\Example025_DZ_Sem7.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\GeekBrains\Examples\Example025_DZ_Sem7\obj\Debug\net7.0\Example025_DZ_Sem7.csproj.CoreCompileInputs.cache
